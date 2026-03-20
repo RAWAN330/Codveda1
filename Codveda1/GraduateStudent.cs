@@ -18,7 +18,7 @@ namespace Codveda1
 
         public override void DisplayInfo()
         {
-            Console.WriteLine($"Graduate Student: {Name}, Topic: {ResearchTopic}");
+            Console.WriteLine($"Graduate_Student: {Name}, Topic: {ResearchTopic}");
         }
     }
 }
